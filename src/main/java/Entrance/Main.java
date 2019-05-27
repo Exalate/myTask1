@@ -1,4 +1,4 @@
-package Entrance;
+package entrance;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -101,5 +101,4 @@ public class Main{
             System.out.println(str);
         }
     }
-
 }
